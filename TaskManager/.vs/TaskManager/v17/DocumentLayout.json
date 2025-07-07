@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\migrations\\20250706174924_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\migrations\\20250706174924_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|c:\\users\\vidura.v\\documents\\new folder\\taskmanager\\taskmanager\\taskmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{798ECFF1-53B1-42AA-9160-C21A0DF5D4BA}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250706174924_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Migrations\\20250706174924_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Migrations\\20250706174924_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Migrations\\20250706174924_InitialCreate.cs",
+              "RelativeToolTip": "TaskManager\\Migrations\\20250706174924_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:13:26.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TaskManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:13:22.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskManager\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:03:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeToolTip": "TaskManager\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:06:05.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Models\\User.cs",
+              "RelativeToolTip": "TaskManager\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:35:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManager\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:36:07.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\DTOs\\TaskDto.cs",
+              "RelativeDocumentMoniker": "TaskManager\\DTOs\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\DTOs\\TaskDto.cs",
+              "RelativeToolTip": "TaskManager\\DTOs\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:48:16.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "TaskManager\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:48:40.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:23:23.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:46:52.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\appsettings.json",
+              "RelativeToolTip": "TaskManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T09:05:07.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskManager",
+              "DocumentMoniker": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\TaskManager.csproj",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManager.csproj",
+              "ToolTip": "C:\\Users\\vidura.v\\Documents\\New folder\\TaskManager\\TaskManager\\TaskManager.csproj",
+              "RelativeToolTip": "TaskManager\\TaskManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T12:20:51.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
